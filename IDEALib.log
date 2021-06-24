@@ -1,0 +1,127 @@
+2021-06-25 01:29:54,520 - INFO - 
+2021-06-25 01:29:54,520 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:30:04,359 - INFO - idea_client: Function Called
+2021-06-25 01:30:04,419 - INFO - idea2py: Function Called
+2021-06-25 01:30:04,697 - INFO - idea2py: Parameters verified.
+2021-06-25 01:30:05,020 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:30:05,537 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:30:05,543 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:30:05,543 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:30:05,550 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:30:05,551 - INFO - idea2py: Successful
+2021-06-25 01:30:05,565 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2021-06-25 01:30:05,565 - INFO - NumExpr defaulting to 8 threads.
+2021-06-25 01:31:57,383 - INFO - 
+2021-06-25 01:31:57,383 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:32:05,526 - INFO - idea_client: Function Called
+2021-06-25 01:32:05,614 - INFO - idea2py: Function Called
+2021-06-25 01:32:05,813 - INFO - idea2py: Parameters verified.
+2021-06-25 01:32:06,303 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:32:06,686 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:32:06,689 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:32:06,689 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:32:06,694 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:32:06,694 - INFO - idea2py: Successful
+2021-06-25 01:32:06,704 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2021-06-25 01:32:06,704 - INFO - NumExpr defaulting to 8 threads.
+2021-06-25 01:32:13,976 - INFO - 
+2021-06-25 01:32:13,977 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:32:29,278 - INFO - idea_client: Function Called
+2021-06-25 01:32:29,290 - INFO - idea2py: Function Called
+2021-06-25 01:32:29,559 - INFO - idea2py: Parameters verified.
+2021-06-25 01:32:29,830 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:32:30,117 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:32:30,125 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:32:30,125 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:32:30,127 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:32:30,127 - INFO - idea2py: Successful
+2021-06-25 01:32:44,248 - INFO - 
+2021-06-25 01:32:44,248 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:33:14,910 - INFO - idea_client: Function Called
+2021-06-25 01:33:14,922 - INFO - idea2py: Function Called
+2021-06-25 01:33:14,978 - INFO - idea2py: Parameters verified.
+2021-06-25 01:33:15,155 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:33:15,476 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:33:15,480 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:33:15,480 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:33:15,482 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:33:15,483 - INFO - idea2py: Successful
+2021-06-25 01:33:15,491 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2021-06-25 01:33:15,491 - INFO - NumExpr defaulting to 8 threads.
+2021-06-25 01:33:26,657 - INFO - 
+2021-06-25 01:33:26,657 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:33:40,142 - INFO - idea_client: Function Called
+2021-06-25 01:33:40,154 - INFO - idea2py: Function Called
+2021-06-25 01:33:40,210 - INFO - idea2py: Parameters verified.
+2021-06-25 01:33:40,396 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:33:40,715 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:33:40,719 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:33:40,720 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:33:40,722 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:33:40,722 - INFO - idea2py: Successful
+2021-06-25 01:36:25,281 - INFO - 
+2021-06-25 01:36:25,282 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:36:34,036 - INFO - idea_client: Function Called
+2021-06-25 01:36:34,130 - INFO - idea2py: Function Called
+2021-06-25 01:36:34,449 - INFO - idea2py: Parameters verified.
+2021-06-25 01:36:34,930 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:36:35,228 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:36:35,232 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:36:35,232 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:36:35,234 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:36:35,235 - INFO - idea2py: Successful
+2021-06-25 01:36:48,376 - INFO - 
+2021-06-25 01:36:48,376 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:36:54,910 - INFO - idea_client: Function Called
+2021-06-25 01:36:55,011 - INFO - idea2py: Function Called
+2021-06-25 01:36:55,166 - INFO - idea2py: Parameters verified.
+2021-06-25 01:36:55,589 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:36:55,928 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:36:55,937 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:36:55,937 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:36:55,940 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:36:55,940 - INFO - idea2py: Successful
+2021-06-25 01:37:04,541 - INFO - 
+2021-06-25 01:37:04,541 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:37:10,098 - INFO - idea_client: Function Called
+2021-06-25 01:37:10,196 - INFO - idea2py: Function Called
+2021-06-25 01:37:10,554 - INFO - idea2py: Parameters verified.
+2021-06-25 01:37:10,826 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:37:11,535 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:37:11,540 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:37:11,540 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:37:11,545 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:37:11,545 - INFO - idea2py: Successful
+2021-06-25 01:37:26,636 - INFO - 
+2021-06-25 01:37:26,636 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:37:30,582 - INFO - idea_client: Function Called
+2021-06-25 01:37:30,691 - INFO - idea2py: Function Called
+2021-06-25 01:37:30,991 - INFO - idea2py: Parameters verified.
+2021-06-25 01:37:31,226 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:37:31,429 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:37:31,431 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:37:31,431 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:37:31,433 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:37:31,433 - INFO - idea2py: Successful
+2021-06-25 01:38:00,813 - INFO - 
+2021-06-25 01:38:00,813 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:38:05,957 - INFO - idea_client: Function Called
+2021-06-25 01:38:06,053 - INFO - idea2py: Function Called
+2021-06-25 01:38:06,384 - INFO - idea2py: Parameters verified.
+2021-06-25 01:38:06,668 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:38:06,998 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:38:07,000 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:38:07,001 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:38:07,002 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:38:07,003 - INFO - idea2py: Successful
+2021-06-25 01:38:12,984 - INFO - 
+2021-06-25 01:38:12,984 - INFO - ----IDEALib.py Loaded----
+2021-06-25 01:38:17,066 - INFO - idea_client: Function Called
+2021-06-25 01:38:17,172 - INFO - idea2py: Function Called
+2021-06-25 01:38:17,505 - INFO - idea2py: Parameters verified.
+2021-06-25 01:38:17,769 - INFO - idea2py: IDEA Database exported to CSV.
+2021-06-25 01:38:18,213 - INFO - idea2py: IDEA column types mapped.
+2021-06-25 01:38:18,217 - INFO - idea2py: CSV imported as a dataframe.
+2021-06-25 01:38:18,220 - INFO - idea2py: Converted date and time columns to proper data type.
+2021-06-25 01:38:18,221 - INFO - idea2py: Eligible character columns converted to categories.
+2021-06-25 01:38:18,222 - INFO - idea2py: Successful

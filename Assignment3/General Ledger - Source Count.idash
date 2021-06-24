@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TemplateFile>
+  <Version>iDash-V2.0</Version>
+  <ConfigurableDashboardProperties>
+    <Title>Untitled</Title>
+    <Description>Dashboard description</Description>
+    <DashboardLayout>
+      <NumFieldStatsGridRows>1</NumFieldStatsGridRows>
+      <NumFieldStatsGridColumns>6</NumFieldStatsGridColumns>
+      <NumChartsGridRows>1</NumChartsGridRows>
+      <NumChartsGridColumns>1</NumChartsGridColumns>
+    </DashboardLayout>
+    <FieldStatsExpanded>true</FieldStatsExpanded>
+  </ConfigurableDashboardProperties>
+  <PieChartItem>
+    <RowPosition>0</RowPosition>
+    <ColPosition>0</ColPosition>
+    <Database>General Ledger-GL</Database>
+    <ChartCaption>General Ledger-GL: Count of records by SOURCE</ChartCaption>
+    <Statistic>Count</Statistic>
+    <LabelField>SOURCE</LabelField>
+    <IsLegendVisible>true</IsLegendVisible>
+    <IsStratified>false</IsStratified>
+    <IsErrorExcluded>false</IsErrorExcluded>
+    <SeriesColors />
+  </PieChartItem>
+</TemplateFile>
