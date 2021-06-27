@@ -1,4 +1,4 @@
-# C:\Program Files\CaseWare IDEA\IDEA\Lib\site-packages dizininde bulunan İDEALib' in import edilmesi işlemi
+# C:\Program Files\CaseWare IDEA\IDEA\Lib\site-packages dizininde bulunan IDEALib' in import edilmesi işlemi
 import IDEALib.IDEALib as ideaLib
 from pandastable import Table
 

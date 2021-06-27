@@ -1,4 +1,4 @@
-# C:\Program Files\CaseWare IDEA\IDEA\Lib\site-packages dizininde bulunan İDEALib' in import edilmesi işlemi
+# C:\Program Files\CaseWare IDEA\IDEA\Lib\site-packages dizininde bulunan IDEALib' in import edilmesi işlemi
 import IDEALib.IDEALib as ideaLib
 
 from pandastable import Table
@@ -15,7 +15,7 @@ class TestApp(Frame):
         Frame.__init__(self)
         self.main = self.master
         self.main.geometry('600x400+200+100')
-        self.main.title('Table app')
+        self.main.title('Assignment1')
         f = Frame(self.main)
         f.pack(fill=BOTH, expand=1)
         data = dataframe
@@ -70,6 +70,9 @@ class UserDefined:
                 elif criteria[0] == "<=":
                     dataframe = dataframe.loc[dataframe[columnname] <= int(criteria[1])]
                     self.datafr = dataframe
+                elif criteria[0] == "=":
+                    dataframe = dataframe.loc[dataframe[columnname] == int(criteria[1])]
+                    self.datafr = dataframe
 
         finally:
             idea.RefreshFileExplorer()
@@ -95,7 +98,7 @@ class UserDefined:
         return userinput
 
     def getCondition(self):
-        print("Condition :", end="")
+        print("Condition(Ör. Sayısal veriler için: < 1000   Kategorik veriler için : SOUTH AFRICA ) :", end="")
         userinput = input()
         return userinput
 
